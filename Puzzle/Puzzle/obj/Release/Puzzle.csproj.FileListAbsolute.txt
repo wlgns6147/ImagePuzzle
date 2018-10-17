@@ -1,0 +1,10 @@
+C:\Users\JH\Desktop\2018 4학년\1학기\C#\C# 텀과제\Puzzle\Puzzle\bin\Release\Puzzle.exe.config
+C:\Users\JH\Desktop\2018 4학년\1학기\C#\C# 텀과제\Puzzle\Puzzle\bin\Release\Puzzle.exe
+C:\Users\JH\Desktop\2018 4학년\1학기\C#\C# 텀과제\Puzzle\Puzzle\bin\Release\Puzzle.pdb
+C:\Users\JH\Desktop\2018 4학년\1학기\C#\C# 텀과제\Puzzle\Puzzle\obj\Release\Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\JH\Desktop\2018 4학년\1학기\C#\C# 텀과제\Puzzle\Puzzle\obj\Release\Puzzle.Form1.resources
+C:\Users\JH\Desktop\2018 4학년\1학기\C#\C# 텀과제\Puzzle\Puzzle\obj\Release\Puzzle.Properties.Resources.resources
+C:\Users\JH\Desktop\2018 4학년\1학기\C#\C# 텀과제\Puzzle\Puzzle\obj\Release\Puzzle.csproj.GenerateResource.cache
+C:\Users\JH\Desktop\2018 4학년\1학기\C#\C# 텀과제\Puzzle\Puzzle\obj\Release\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\JH\Desktop\2018 4학년\1학기\C#\C# 텀과제\Puzzle\Puzzle\obj\Release\Puzzle.exe
+C:\Users\JH\Desktop\2018 4학년\1학기\C#\C# 텀과제\Puzzle\Puzzle\obj\Release\Puzzle.pdb
